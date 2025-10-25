@@ -96,9 +96,14 @@ export default function Home() {
           </p>
 
           <div className="mt-7 flex flex-wrap items-center gap-4 animate-fade-up delay-400">
-            <a href="#comprar" className="btn-gold">
-              {t.cta}
-            </a>
+           <a
+      href="https://buy.stripe.com/test_9AQ7vYxxxxxx"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn-gold"
+      >
+      {t.cta}
+  </a>
             <a href="#conteudo" className="badge hover:bg-zinc-800">
               {t.see}
             </a>
