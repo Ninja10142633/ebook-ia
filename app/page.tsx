@@ -98,7 +98,6 @@ export default function Home() {
           <div className="mt-7 flex flex-wrap items-center gap-4 animate-fade-up delay-400">
            <a
       href="https://buy.stripe.com/14AaEZdiQ0FrbRP16N2kw00"
-    target="_blank"
     rel="noopener noreferrer"
     className="btn-gold"
       >
